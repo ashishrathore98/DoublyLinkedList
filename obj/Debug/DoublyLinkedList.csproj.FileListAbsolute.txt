@@ -1,0 +1,8 @@
+D:\SimpliLearn Course\Assisted Project\DoublyLinkedList\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe.config
+D:\SimpliLearn Course\Assisted Project\DoublyLinkedList\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+D:\SimpliLearn Course\Assisted Project\DoublyLinkedList\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+D:\SimpliLearn Course\Assisted Project\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.csproj.AssemblyReference.cache
+D:\SimpliLearn Course\Assisted Project\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.csproj.SuggestedBindingRedirects.cache
+D:\SimpliLearn Course\Assisted Project\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.csproj.CoreCompileInputs.cache
+D:\SimpliLearn Course\Assisted Project\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+D:\SimpliLearn Course\Assisted Project\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb
